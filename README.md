@@ -6,6 +6,12 @@ This project analyses the offensive contribution of a sample of LaLiga midfielde
 
 The objective was to compare players using offensive production and efficiency metrics and to develop a custom performance indicator called Offensive Score.
 
+## Main Visualization
+
+### Offensive Score Ranking
+
+![Offensive Score Ranking](offensive_ranking.png)
+
 ## Tools Used
 
 - Python
